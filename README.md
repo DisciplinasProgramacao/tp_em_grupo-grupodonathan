@@ -6,13 +6,15 @@
 
 * Nathan Victor Morais Nogueira
 
-
 ## Professores responsáveis
 
 * João Caram Santos De Oliveira
-
+*************************************************************************************************************************************************************************
+# Condição Do Grupo
+- Os Diagramas apresentados foram feitos no Nclass.
+- O mesmo séra desenvolvido em Java.
 
 *************************************************************************************************************************************************************************
 
-# DIAGRAMA DE CLASSE
+# Diagrama De Classe
 ![image](https://user-images.githubusercontent.com/80351589/192066408-3f0d6188-3e59-40e0-814a-81f0d484bfec.png)
